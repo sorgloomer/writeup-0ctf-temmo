@@ -1,6 +1,6 @@
 # 0ctf 2017 - Temmo's tiny shop
 
-## !SpamAndHex - Hege
+_!SpamAndHex - Hege_
 
 Temmo's tiny shop is a 3-paged web application. After registering one can purchase
 and sell goods from a predefined list, using a total of 4000 credits. The app also
